@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Koen Rademaker"
   avatar           : "profile_koenrademaker.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a bioinformatics MSc student currently working on spatial transcriptomics to map cell type-specific changes in disease."
+  location         : "Amsterdam / Heidelberg"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/koen-rademaker/"
   orcid            : "http://orcid.org/0000-0003-3059-5183"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "kjrademaker"
   vine             :
   weibo            :
   xing             :
