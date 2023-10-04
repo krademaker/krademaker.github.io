@@ -83,7 +83,7 @@ author:
   name             : "Koen Rademaker"
   avatar           : "profile_koenrademaker.png"
   bio              : "I am a bioinformatics MSc student currently working on spatial transcriptomics to map cell type-specific changes in disease."
-  location         : "Amsterdam / Heidelberg"
+  location         : "Heidelberg / Amsterdam"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/koen-rademaker/"
+  linkedin         : "koen-rademaker"
   orcid            : "http://orcid.org/0000-0003-3059-5183"
   pinterest        :
   soundcloud       :
