@@ -21,6 +21,8 @@ M. Olislagers, **K. Rademaker**, R. A. H. Adan, B. D. Lin & J. J. Luykx. 'Compre
 
 ## Preprints
 
+A. Aivazidis, F. Memi, **K. Rademaker**, M. Koko, K. Roberts, A. Trinh, R. Petryszak, V. Kleshchevnikov, L. Tuck, S. Lisgo, T. Li, S. Makarchuk, M. Prete, T.J. Nowakowski, H.C. Martin, O.A. Bayraktar. “A spatial transcriptomic atlas of autism-associated genes identifies convergence in the developing human thalamus”. _bioRxiv_, doi: [10.1101/2025.11.05.685843](doi.org/10.1101/2025.11.05.685843) (November 06 2025).
+
 A. Akbarnejad*, L. Steele*, D.J. Jafree*, S. Birk*, M.R. Sallese*, **K. Rademaker**, A. Boxall, B. Rumney, C. Tudor, M. Patel, M. Prete, S. Makarchuk, T. Li, H. Stanley, A.R. Foster, K. Roberts, A.L. Trinh, C.E. Villa, G. Testa, S. Mahil, A. Mehrjou, C. Smith, S. Vakili, M.R. Clatworthy, T. Mitchell, O.A. Bayraktar, M. Haniffa, M. Lotfollahi. “Mapping and reprogramming microenvironment-induced cell states in human disease using generative AI”. _bioRxiv_, doi: [10.1101/2025.06.24.661094](doi.org/10.1101/2025.06.24.661094) (July 24 2025).
 
 L. Dauban, M. Eder, M. de Haas, V.H. Franceschini-Santos, J.O. Yañez-Cuna, T. van Schaik, C. Leemans, **K. Rademaker**, M. Martinez Ara, M. Martinovic, E. de Wit, B. van Steensel. “Genome - nuclear lamina interactions are multivalent and cooperative”. _bioRxiv_, doi: [10.1101/2024.01.10.574825](doi.org/10.1101/2024.01.10.574825) (January 10 2024).
