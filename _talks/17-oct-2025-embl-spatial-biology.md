@@ -3,7 +3,7 @@ title: "A developmental human brain spatial transcriptomic atlas of autism susce
 collection: talks
 type: "Conference"
 permalink: /talks/17-oct-2025-embl-spatial-biology
-venue: "European Bioinformatics Institute (EMBL)"
+venue: "European Molecular Biology Laboratory (EMBL)"
 date: 2025-10-17
 location: "Heidelberg, Germany"
 ---
