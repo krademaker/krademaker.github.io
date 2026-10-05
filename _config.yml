@@ -82,18 +82,17 @@ analytics:
 author:
   name             : "Koen Rademaker"
   avatar           : "profile_koenrademaker.png"
-  bio              : "Spatial biology for neurodevelopment and disease @ Bayraktar lab, Wellcome Sanger Institute."
+  bio              : "Somatic genomics in single-cell and spatial data @ Coorens group"
   location         : "Cambridge, UK"
-  employer         : "Wellcome Sanger Institute"
+  employer         : "European Bioinformatics Institute"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : # koenrademaker@icloud.com
+  googlescholar    : https://scholar.google.com/citations?user=BJU53OIAAAAJ&hl=en
+  email            : rademaker@ebi.ac.uk
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "krademaker"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   linkedin         : "koen-rademaker"
   orcid            : "http://orcid.org/0000-0003-3059-5183"
-
   bluesky          : "krademaker"
 
 
