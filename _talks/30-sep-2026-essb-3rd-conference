@@ -1,14 +1,12 @@
 ---
 title: "Spatiotemporally resolved molecular and cellular architecture of spinal cord injury"
 collection: talks
-type: "Conference"
+type: ""
 permalink: /talks/30-sep-2026-essb-3rd-conference
-venue: "Meliá Sitges"
+venue: "European Society for Spatial Biology annual conference"
 date: 2026-09-30
 location: "Sitges, Spain"
 ---
-
-[More information here](https://www.embl.org/about/info/course-and-conference-office/events/spb25-01/)
 
 **Authors**
 
@@ -28,3 +26,4 @@ Emily R Burnside<sup>1,\*</sup>, Yeliz Demirci<sup>2,\*</sup>, Koen Rademaker<su
 **Abstract**
 
 Spinal cord injury represents a huge unmet and lifelong clinical challenge for which no pathology-modulating therapeutics exist to date. Crucially, a lack of single-cell spatial resolution mapping of acute pathology hinders identification of points of therapeutic intervention. The growing body of single-cell and nucleus RNA-sequencing mouse spinal cord injury models has not yet been systematically unified and crucially lacks spatiotemporal resolution to capture the dynamic injury response across cell states. Here, we integrated multiple single-cell datasets with longitudinal spatial transcriptomics and high-resolution in situ profiling, to define how injury-associated cellular states are arranged across the evolving lesion. Integrated single-cell profiling of 167,000 cells enabled cell states deconvolution and spatial niche identification in 10x Genomics Visium sampled 1 to 28 days post-injury. We further extended with single-cell spatial 10x Genomics Xenium with a 480-plex panel of cell state-, injury site- and cell communication genes along the same temporal axis. Following fine-grained cell state annotation, we identified tissue niches using a deep-learning framework to model cellular communication and interpretable cellular embeddings of underlying transcriptomic processes. Here, we reveal previously unresolved degrees on multicellular and spatially organised compartmentalisation, including an early interferon-responsive astrocyte state at lesion borders, spatially distinct immune architectures, and a temporally ordered remodelling of stromal compartments at the lesion epicentre. We additionally performed in situ profiling of human clinical samples following acute injuries using Xenium Prime to orthogonally model tissue niches and extend findings beyond mouse models. Altogether, these findings demonstrate how spatiotemporal mouse and human spinal cord injury profiling provides both a resource and a conceptual framework for understanding pathology as a set of spatially organised tissue processes. This raises the prospect of future tissue niche reprogramming to promote repair following injury.
+
