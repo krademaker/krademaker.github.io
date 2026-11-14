@@ -12,7 +12,7 @@ Also available on [ORCID](https://orcid.org/0000-0003-3059-5183).
 ## Peer-reviewed publications
 
 G. de Jong*, F. Memi*, T. Gracia*, O. Lazareva, O. Gould, G. Solomou, A. Aivazidis, M. Dave, Q. Zhang, M. Jensen, A.S. Rifaioglu, J.D. Barros-Silva, S. Eckert, D. Zhou, Y. Wood, E. Tuck, S. Er, **K. Rademaker**, R. Petryszak, H. Marshall, K. Roberts, A.L. Trinh, S. Rai, T. Shaw, A. Oszlanczi, H. Powell, P. Mazin, S. Makarchuk, Y. Chang, K. Kania, L. Jin, C. Tudor, H.M. Chan, H. Johnson, B. Rumney, H. Anderson, J. Halliwell, V.B. Pereira, Z. Katsirea, I. Mamun, I. Mulas, A. Quaegebeur, M. Briggs, J. Cox, J.T.H. Lee, L. Rueda-Gensini, M. Saraswat, Z. Seferbevoka, A. Young, M. Patel, T. Porter, M. Gerstung, M. Prete, E. Prigmore, M. Mall, H. Bulstrode, J. Saez-Rodriguez, J. Briscoe, D.H. Rowitch, R. Mair, S. Behjati, O. Stegle, O.A. Bayraktar.\
-_"A spatiotemporal cancer cell trajectory underlies glioblastoma heterogeneity"_. **Nature**, doi: (2026).
+_"A spatiotemporal cancer cell trajectory underlies glioblastoma heterogeneity"_. **Nature**, doi: [10.1038/s41586-026-11234-8](https://doi.org/10.1038/s41586-026-11234-8) (4 November 2026).
 
 K. To, J. P. Pett, O. Dufva, N.-J. Chipampe, K. Polanski, A.-M. Cujba, K. Roberts, A. V. Predeus, N. Yayon, K. Kanemaru, M. I. Patel, D. Horsfall, T. Li, P. Mazin, B. Cakir, R. Kapuge, A. Wilk, F. Memi, X. He, N. Solanky, S. Kayhanian, R. Mair, **K. Rademaker**, O. A. Bayraktar, M. Haniffa, R. A. Barker, C. D. Buckley, S. A. Teichmann\
 _"Spatially resolved multiomics of human meningeal development reveal lineage and disease dynamics”_. **Nature Cell Biology**, doi: [10.1038/s41556-026-02075-8](https://doi.org/10.1038/s41556-026-02075-8) (28 September 2026).
